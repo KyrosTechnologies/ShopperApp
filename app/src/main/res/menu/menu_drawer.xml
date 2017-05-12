@@ -43,6 +43,11 @@
             </group>
 
             <item
+                android:id="@+id/about"
+                android:icon="@drawable/aboutus"
+                android:title="About Us"/>
+
+            <item
                 android:id="@+id/nav_promo"
                 android:icon="@drawable/ic_nav_promotion"
                 android:title="@string/menu_promotions"/>

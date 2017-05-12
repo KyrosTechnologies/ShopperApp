@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
-    \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+    <string name="lorem_ipsum">A feature is essentially a fact about your product or offer. The benefit mainly answers how a feature is useful for your customer.For most products, it may seem like customers are already aware of the primary features, unless the product is really complicated, like crane equipment maybe? And usually, you can easily add specifications of a product in bullet points and get done with it.
+    \n\nBut if you want to really persuade your visitors to become customers, you will need to spell out the benefits of these features in each product description on your website. Tell them exactly “how” a particular feature is useful for them, and “why” they should make this purchase.</string>
     <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
     <string name="middle_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
     <string name="long_lorem_ipsum">

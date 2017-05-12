@@ -1,5 +1,6 @@
 package com.kyrostechnologies.sample.shop;
 
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.support.annotation.IdRes;
@@ -12,7 +13,6 @@ import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarDrawerToggle;
-import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -24,9 +24,9 @@ import android.widget.Toast;
 
 import com.kyrostechnologies.sample.shop.data.GlobalVariable;
 import com.kyrostechnologies.sample.shop.data.Tools;
+import com.kyrostechnologies.sample.shop.fragment.AboutFragment;
 import com.kyrostechnologies.sample.shop.fragment.CartFragment;
 import com.kyrostechnologies.sample.shop.fragment.CategoryFragment;
-import com.kyrostechnologies.sample.shop.fragment.LogoutFragment;
 import com.squareup.picasso.Picasso;
 
 import DataBases.Contact;
@@ -168,14 +168,7 @@ public class ActivityMain extends AppCompatActivity {
             case R.id.action_settings:
                 Snackbar.make(parent_view, "Setting Clicked", Snackbar.LENGTH_SHORT).show();
                 break;
-            case R.id.action_about: {
-                AlertDialog.Builder builder = new AlertDialog.Builder(this);
-                builder.setTitle("About");
-                builder.setMessage(getString(R.string.about_text));
-                builder.setNeutralButton("OK", null);
-                builder.show();
-                break;
-            }
+
         }
 
         return super.onOptionsItemSelected(item);
@@ -194,10 +187,10 @@ public class ActivityMain extends AppCompatActivity {
                 fragment = new CategoryFragment();
                 bundle.putString(CategoryFragment.TAG_CATEGORY, title);
                 break;
-            case R.id.nav_promo:
-                fragment = new LogoutFragment();
+            case  R.id.about:
+                fragment = new AboutFragment();
+                bundle.putString(AboutFragment.TAG_CATEGORY, title);
                 break;
-
 
             //sub menu
             case R.id.nav_clothing:

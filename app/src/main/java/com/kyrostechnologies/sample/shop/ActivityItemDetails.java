@@ -121,14 +121,6 @@ public class ActivityItemDetails extends AppCompatActivity {
                 Snackbar.make(parent_view, "Credit Clicked", Snackbar.LENGTH_SHORT).show();
                 break;
 
-            case R.id.action_about: {
-                AlertDialog.Builder builder = new AlertDialog.Builder(this);
-                builder.setTitle("About");
-                builder.setMessage(getString(R.string.about_text));
-                builder.setNeutralButton("OK", null);
-                builder.show();
-                break;
-            }
         }
         return super.onOptionsItemSelected(item);
     }
