@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#89C443</color>
+    <color name="colorPrimaryDark">#558B2F</color>
+    <color name="colorPrimaryLight">#9ECC66</color>
+    <color name="colorAccent">#89C443</color>
+    <color name="colorAccentDark">#7AB439</color>
+    <color name="colorAccentLight">#9ECC66</color>
+    <color name="colorRed">#F44336</color>
+    <color name="textIconColorPrimary">#FFFFFF</color>
+    <color name="facebook_bg">#3b5998</color>
+    <color name="facebook_bg_pressed">#2a406e</color>
+    <color name="semi_light_transparent">#5a000000</color>
+    <color name="grey_lighter">#bcbcbc</color>
+    <color name="mapgrey">#cbcbcb</color>
+    <color name="grey_hard">#96989A</color>
+    <color name="grey_medium">#BDBFC1</color>
+    <color name="grey_soft">#F5F5F5</color>
+    <color name="fbblue">#01579B</color>
+    <color name="black_transparent_70percent">#B3000000</color>
+    <color name="grey_bg">#E6E6E6</color>
+    <color name="grey_text">#222D31</color>
+    <color name="tab_indicator_color">#FFFFFF</color>
+
+</resources>

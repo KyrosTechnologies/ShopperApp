@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+    \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="middle_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+    <string name="long_lorem_ipsum">
+        Duis tellus metus, elementum a lectus id, aliquet interdum mauris. Nam bibendum efficitur sollicitudin. Proin eleifend libero velit, nec fringilla dolor finibus quis. nMorbi eu libero pellentesque, rutrum metus quis, blandit est. Fusce bibendum accumsan nisi vulputate feugiat. In fermentum laoreet euismod. Praesent sem nisl, facilisis eget odio at, rhoncus scelerisque ipsum. Nulla orci dui, dignissim a risus ut, lobortis porttitor velit.
+        \n\nNulla id lectus metus. Maecenas a lorem in odio auctor facilisis non vitae nunc. Sed malesuada volutpat massa. Praesent sit amet lacinia augue, mollis tempor dolor.
+    </string>
+
+    <!-- Clothing female ==================================================================-->
+    <integer-array name="item_clothing_female">
+        <item>@drawable/c_f_1</item>
+        <item>@drawable/c_f_2</item>
+        <item>@drawable/c_f_3</item>
+        <item>@drawable/c_f_4</item>
+        <item>@drawable/c_f_5</item>
+        <item>@drawable/c_f_6</item>
+        <item>@drawable/c_f_7</item>
+        <item>@drawable/c_f_8</item>
+        <item>@drawable/c_f_9</item>
+    </integer-array>
+    <string-array name="str_clothing_female">
+        <item>Cashmere Essentials</item>
+        <item>Derek Heart Juniors</item>
+        <item>Magaschoni Women</item>
+        <item>Colorblock Crewneck Sweater</item>
+        <item>Detail Cardigan Sweater</item>
+        <item>Cashmere Textured</item>
+        <item>Sofia Cashmere Women</item>
+        <item>Shawl Collar Cardigan</item>
+        <item>Rachel Pally Women</item>
+    </string-array>
+    <string-array name="prc_clothing_female">
+        <item>40</item>
+        <item>27</item>
+        <item>63</item>
+        <item>100</item>
+        <item>21</item>
+        <item>112</item>
+        <item>28</item>
+        <item>99</item>
+        <item>33</item>
+    </string-array>
+
+    <!-- Clothing male ==================================================================-->
+    <integer-array name="item_clothing_male">
+        <item>@drawable/c_m_1</item>
+        <item>@drawable/c_m_2</item>
+        <item>@drawable/c_m_3</item>
+        <item>@drawable/c_m_4</item>
+        <item>@drawable/c_m_5</item>
+        <item>@drawable/c_m_6</item>
+        <item>@drawable/c_m_7</item>
+        <item>@drawable/c_m_8</item>
+    </integer-array>
+    <string-array name="str_clothing_male">
+        <item>Pendleton Men</item>
+        <item>Shetland Crew-Neck</item>
+        <item>Perry Ellis Men</item>
+        <item>Diamond-Stitch Quarter</item>
+        <item>Perry Ellis</item>
+        <item>Men Big-Tall Marled</item>
+        <item>Shawl Cardigan</item>
+        <item>Victorinox Signature</item>
+    </string-array>
+    <string-array name="prc_clothing_male">
+        <item>70</item>
+        <item>80</item>
+        <item>25</item>
+        <item>57</item>
+        <item>76</item>
+        <item>88</item>
+        <item>59</item>
+        <item>35</item>
+    </string-array>
+
+    <!-- Shoes female ==================================================================-->
+    <integer-array name="item_shoes_female">
+        <item>@drawable/s_f_1</item>
+        <item>@drawable/s_f_2</item>
+        <item>@drawable/s_f_3</item>
+        <item>@drawable/s_f_4</item>
+    </integer-array>
+    <string-array name="str_shoes_female">
+        <item>Kenneth Cole</item>
+        <item>Steve Madden Jombre </item>
+        <item>Sparkle Flat</item>
+        <item>Nine West Figi</item>
+    </string-array>
+    <string-array name="prc_shoes_female">
+        <item>122</item>
+        <item>98</item>
+        <item>87</item>
+        <item>110</item>
+    </string-array>
+
+    <!-- Shoes male ==================================================================-->
+    <integer-array name="item_shoes_male">
+        <item>@drawable/s_m_1</item>
+        <item>@drawable/s_m_2</item>
+        <item>@drawable/s_m_3</item>
+        <item>@drawable/s_m_4</item>
+        <item>@drawable/s_m_5</item>
+        <item>@drawable/s_m_6</item>
+        <item>@drawable/s_m_7</item>
+    </integer-array>
+    <string-array name="str_shoes_male">
+        <item>Minnetonka Fleece</item>
+        <item>Performance Men Duramo</item>
+        <item>New Balance Rush</item>
+        <item>Altra Impulse Running</item>
+        <item>Asics Gel-Quantum</item>
+        <item>Isotoner Men Slipper</item>
+        <item>Vagabond Chill</item>
+    </string-array>
+    <string-array name="prc_shoes_male">
+        <item>140</item>
+        <item>123</item>
+        <item>117</item>
+        <item>131</item>
+        <item>100</item>
+        <item>79</item>
+        <item>71</item>
+    </string-array>
+
+    <!-- Watches female ==================================================================-->
+    <integer-array name="item_watches_female">
+        <item>@drawable/w_f_1</item>
+        <item>@drawable/w_f_2</item>
+        <item>@drawable/w_f_3</item>
+        <item>@drawable/w_f_4</item>
+    </integer-array>
+    <string-array name="str_watches_female">
+        <item>New York Women</item>
+        <item>Kate Spade</item>
+        <item>Timex Women Reader</item>
+        <item>Black Leather Strap</item>
+    </string-array>
+    <string-array name="prc_watches_female">
+        <item>340</item>
+        <item>263</item>
+        <item>420</item>
+        <item>554</item>
+    </string-array>
+
+    <!-- Watches male ==================================================================-->
+    <integer-array name="item_watches_male">
+        <item>@drawable/w_m_1</item>
+        <item>@drawable/w_m_2</item>
+        <item>@drawable/w_m_3</item>
+        <item>@drawable/w_m_4</item>
+        <item>@drawable/w_m_5</item>
+        <item>@drawable/w_m_6</item>
+        <item>@drawable/w_m_7</item>
+    </integer-array>
+    <string-array name="str_watches_male">
+        <item>Stuhrling Original Men</item>
+        <item>Timex Men Easy</item>
+        <item>Steel Bracelet Watch</item>
+        <item>Silver-Tone Expansion</item>
+        <item>Quartz Black</item>
+        <item>Michael Kors Accelerator</item>
+        <item>Gunmetal Watch</item>
+    </string-array>
+    <string-array name="prc_watches_male">
+        <item>640</item>
+        <item>673</item>
+        <item>300</item>
+        <item>121</item>
+        <item>436</item>
+        <item>228</item>
+        <item>454</item>
+    </string-array>
+
+    <!-- Bags female ==================================================================-->
+    <integer-array name="item_bags_female">
+        <item>@drawable/b_f_1</item>
+        <item>@drawable/b_f_2</item>
+        <item>@drawable/b_f_3</item>
+        <item>@drawable/b_f_4</item>
+        <item>@drawable/b_f_5</item>
+        <item>@drawable/b_f_6</item>
+    </integer-array>
+    <string-array name="str_bags_female">
+        <item>Fashion Road Modern</item>
+        <item>Leisure Shoulder Bags</item>
+        <item>Cross Body Zip</item>
+        <item>Satchel Handbags</item>
+        <item>Kenneth Cole Reaction</item>
+        <item>Ibagbar Durable</item>
+    </string-array>
+    <string-array name="prc_bags_female">
+        <item>140</item>
+        <item>93</item>
+        <item>100</item>
+        <item>121</item>
+        <item>69</item>
+        <item>118</item>
+    </string-array>
+
+    <!-- Bags male ==================================================================-->
+    <integer-array name="item_bags_male">
+        <item>@drawable/b_m_1</item>
+        <item>@drawable/b_m_2</item>
+        <item>@drawable/b_m_3</item>
+        <item>@drawable/b_m_4</item>
+        <item>@drawable/b_m_5</item>
+        <item>@drawable/b_m_6</item>
+    </integer-array>
+    <string-array name="str_bags_male">
+        <item>Team Speed Duffel</item>
+        <item>Luggage Bag</item>
+        <item>Bag Messenger</item>
+        <item>Bag Satchel Bag</item>
+        <item>Vintage Multifunction Canvas</item>
+        <item>Durable Shoulder</item>
+    </string-array>
+    <string-array name="prc_bags_male">
+        <item>113</item>
+        <item>45</item>
+        <item>78</item>
+        <item>99</item>
+        <item>73</item>
+        <item>89</item>
+    </string-array>
+
+    <!-- Accessories Female ==================================================================-->
+    <integer-array name="item_acc_female">
+        <item>@drawable/a_f_1</item>
+        <item>@drawable/a_f_2</item>
+        <item>@drawable/a_f_3</item>
+        <item>@drawable/a_f_4</item>
+        <item>@drawable/a_f_5</item>
+        <item>@drawable/a_f_6</item>
+        <item>@drawable/a_f_7</item>
+        <item>@drawable/a_f_8</item>
+    </integer-array>
+    <string-array name="str_acc_female">
+        <item>Silver Tone Metal</item>
+        <item>Charm Bracelet</item>
+        <item>Women Sterling</item>
+        <item>Cross Pendant Necklace</item>
+        <item>Dogeared Reminder</item>
+        <item>Sterling Silver Round</item>
+        <item>Diamond in Heart</item>
+        <item>Diamond Princess Hoop</item>
+    </string-array>
+    <string-array name="prc_acc_female">
+        <item>680</item>
+        <item>810</item>
+        <item>490</item>
+        <item>226</item>
+        <item>127</item>
+        <item>400</item>
+        <item>236</item>
+        <item>547</item>
+    </string-array>
+
+    <!-- Accessories Male ==================================================================-->
+    <integer-array name="item_acc_male">
+        <item>@drawable/a_m_1</item>
+        <item>@drawable/a_m_2</item>
+        <item>@drawable/a_m_3</item>
+        <item>@drawable/a_m_4</item>
+        <item>@drawable/a_m_5</item>
+    </integer-array>
+    <string-array name="str_acc_male">
+        <item>Premium Original Flexfit</item>
+        <item>Twill Fitted Hat</item>
+        <item>Goson Vintage Inspired</item>
+        <item>Rimmed Clear Lens</item>
+        <item>Classic Half Frame</item>
+    </string-array>
+    <string-array name="prc_acc_male">
+        <item>14</item>
+        <item>12</item>
+        <item>32</item>
+        <item>22</item>
+        <item>13</item>
+    </string-array>
+
+    <!-- New Items ================================================================== -->
+    <integer-array name="item_new">
+        <item>@drawable/c_f_3</item>
+        <item>@drawable/c_m_7</item>
+        <item>@drawable/s_m_5</item>
+        <item>@drawable/w_f_2</item>
+        <item>@drawable/b_m_6</item>
+        <item>@drawable/a_f_3</item>
+    </integer-array>
+    <string-array name="str_new">
+        <item>Magaschoni Women</item>
+        <item>Shawl Cardigan</item>
+        <item>Asics Gel-Quantum</item>
+        <item>Kate Spade</item>
+        <item>Durable Shoulder</item>
+        <item>Women Sterling</item>
+    </string-array>
+    <string-array name="prc_new">
+        <item>63</item>
+        <item>88</item>
+        <item>100</item>
+        <item>263</item>
+        <item>89</item>
+        <item>490</item>
+    </string-array>
+
+    <!-- Promotions ================================================================== -->
+
+</resources>

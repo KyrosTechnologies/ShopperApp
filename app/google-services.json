@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "472921215802",
+    "firebase_url": "https://my-application-71565.firebaseio.com",
+    "project_id": "my-application-71565",
+    "storage_bucket": "my-application-71565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472921215802:android:c4261d102aec4d4b",
+        "android_client_info": {
+          "package_name": "com.example.rohin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472921215802-tigrq2pk3hrojt5vrlrpstv0aqs2co09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohin.myapplication",
+            "certificate_hash": "ecc7d88f4599a970bd82d6eb6a2bfad67dab3562"
+          }
+        },
+        {
+          "client_id": "472921215802-fuq8ilugoch8h6joau7fp94h370ua1e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDLKfNionEwxsSKJDoW20_GKA6g1BFvnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472921215802-fuq8ilugoch8h6joau7fp94h370ua1e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472921215802:android:8fb21c5662c992b1",
+        "android_client_info": {
+          "package_name": "com.kyrostechnologies.sample.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472921215802-85b6ashblrv4cjp4q49s9r5qq725tlfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kyrostechnologies.sample.shop",
+            "certificate_hash": "ecc7d88f4599a970bd82d6eb6a2bfad67dab3562"
+          }
+        },
+        {
+          "client_id": "472921215802-fuq8ilugoch8h6joau7fp94h370ua1e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDLKfNionEwxsSKJDoW20_GKA6g1BFvnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472921215802-fuq8ilugoch8h6joau7fp94h370ua1e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopper App</string>
+    <string name="slogan">Shopping on The Go</string>
+
+    <string name="facebook_app_id">183715112123102</string>
+    <string name="fb_login_protocol_scheme">fb183715112123102</string>
+
+
+
+    <string name="about_text">E-Commerce aplication template with material design.
+        \n\nImage source :
+        \n<a href="www.pexels.com">www.pexels.com</a>
+        \n<a href="www.pixabay.com">www.pixabay.com</a>
+    </string>
+
+    <!--string drawer menu-->
+    <string name="menu_cart">Cart</string>
+    <string name="menu_new">New Items</string>
+    <string name="menu_promotions">Logout</string>
+
+    <string name="menu_clothing">Clothing</string>
+    <string name="menu_shoes">Shoes</string>
+    <string name="menu_watches">Watches</string>
+    <string name="menu_accessories">Accessories</string>
+    <string name="menu_bags">Bags</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!--exit notification-->
+    <string name="press_again_exit_app">Press again to exit</string>
+
+</resources>

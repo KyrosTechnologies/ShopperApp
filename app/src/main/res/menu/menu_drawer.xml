@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_nav_cart"
+            android:title="@string/menu_cart"
+            app:actionLayout="@layout/menu_counter"/>
+        <item
+            android:id="@+id/nav_new"
+            android:icon="@drawable/ic_nav_new"
+            android:checked="true"
+            android:title="@string/menu_new"/>
+
+    </group>
+
+    <item android:title="Category" >
+        <menu>
+            <group
+                android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_clothing"
+                android:icon="@drawable/ic_nav_clothing"
+                android:title="@string/menu_clothing"/>
+            <item
+                android:id="@+id/nav_shoes"
+                android:icon="@drawable/ic_nav_shoes"
+                android:title="@string/menu_shoes"/>
+            <item
+                android:id="@+id/nav_watches"
+                android:icon="@drawable/ic_nav_watches"
+                android:title="@string/menu_watches"/>
+            <item
+                android:id="@+id/nav_accessories"
+                android:icon="@drawable/ic_nav_accessories"
+                android:title="@string/menu_accessories"/>
+            <item
+                android:id="@+id/nav_bags"
+                android:icon="@drawable/ic_nav_bags"
+                android:title="@string/menu_bags"/>
+            </group>
+
+            <item
+                android:id="@+id/nav_promo"
+                android:icon="@drawable/ic_nav_promotion"
+                android:title="@string/menu_promotions"/>
+
+        </menu>
+    </item>
+
+</menu>

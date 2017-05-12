@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ActivityMain">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Setting"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_credit"
+        android:orderInCategory="100"
+        android:title="Credit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="About"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cart"
+        android:orderInCategory="100"
+        android:title="Cart"
+        android:icon="@drawable/ic_menu_cart"
+        app:showAsAction="always"/>
+</menu>
